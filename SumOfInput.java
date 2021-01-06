@@ -1,7 +1,7 @@
 /**
  * Write a description of class SumOfInput here.
  *
- * @author Norton
+ * @author Norton 
  * @version 1/5/2021
  */
 public class SumOfInput
